@@ -1,0 +1,9 @@
+
+{
+  "appName": "Instagram Wrapper",
+  "version": "1.0.0",
+  "author": "sl4pdev",
+  "description": "An unofficial Instagram wrapper created with Electron.",
+  "isOfficial": false,
+  "contact": "https://github.com/sl4pdev"
+}

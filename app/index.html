@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Instagram</title>
+    <style>
+        /* Remove qualquer margem e preenchimento */
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Evita barras de rolagem no corpo */
+            width: 100%;
+            height: 100%;
+        }
+        /* Faz a webview ocupar todo o espaço */
+        webview {
+            width: 100%;
+            height: 100%;
+            border: none; /* Remove qualquer borda */
+        }
+    </style>
+</head>
+<body>
+    <webview src="https://www.instagram.com" autosize="on"></webview>
+</body>
+</html>
