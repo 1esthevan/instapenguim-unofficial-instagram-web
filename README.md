@@ -6,7 +6,7 @@
   <p align="center">
     Breathe fresh air. Ditch the browser distractions and give Instagram the focused, unofficial desktop app it deserves.
     <br>
-    <a href="https://github.com/sl4pdev/instapenguim-unofficial-instagram-web/releases"><strong>Explore the Releases »</strong></a>
+    <a href="https://github.com/sl4apdev/instapenguim-unofficial-instagram-web/releases/tag/v1.0.0"><strong>Explore the Releases »</strong></a>
     <br>
     <br>
     <a href="https://github.com/sl4pdev/instapenguim-unofficial-instagram-web/issues">Report Bug</a>
