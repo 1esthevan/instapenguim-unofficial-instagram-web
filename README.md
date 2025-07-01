@@ -1,3 +1,5 @@
+![InstaPenguin Logo](https://i.imgur.com/Th46CJq.png)
+
 # InstaPenguin
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -5,7 +7,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built with Electron](https://img.shields.io/badge/built%20with-Electron-blueviolet)
 
-A sleek, distraction-free desktop experience for Instagram. Cut through the browser clutter and get straight to your feed, stories, and DMs.
+Breathe fresh air. Ditch the browser distractions and give Instagram the focused, unofficial desktop app it deserves.
 
 ![InstaPenguin Screenshot](https://i.imgur.com/Wx3UXmB.png)
 
@@ -16,7 +18,6 @@ A sleek, distraction-free desktop experience for Instagram. Cut through the brow
 **InstaPenguin** is an independent, unofficial project. It functions as a wrapper for the official Instagram website (`instagram.com`) and is not affiliated with, maintained, authorized, or sponsored by Meta, Instagram, or any of its subsidiaries. The Instagram name is used for reference purposes only.
 
 ---
-![InstaPenguin Logo](https://i.imgur.com/Th46CJq.png)
 
 ### Features
 
@@ -60,8 +61,9 @@ Want to get your hands dirty and contribute?
 2.  **Clone** your fork to your local machine:
     ```bash
     git clone [https://github.com/your-username/InstaPenguin.git](https://github.com/your-username/InstaPenguin.git)
+    cd InstaPenguin
     ```
-3.  **Install dependencies:**
+3.  **Install the dependencies:**
     ```bash
     npm install
     ```
