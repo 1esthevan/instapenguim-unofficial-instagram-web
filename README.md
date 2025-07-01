@@ -1,5 +1,3 @@
-![InstaPenguin Logo](https://i.imgur.com/Th46CJq.png)
-
 # InstaPenguin
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -18,6 +16,7 @@ A sleek, distraction-free desktop experience for Instagram. Cut through the brow
 **InstaPenguin** is an independent, unofficial project. It functions as a wrapper for the official Instagram website (`instagram.com`) and is not affiliated with, maintained, authorized, or sponsored by Meta, Instagram, or any of its subsidiaries. The Instagram name is used for reference purposes only.
 
 ---
+![InstaPenguin Logo](https://i.imgur.com/Th46CJq.png)
 
 ### Features
 
