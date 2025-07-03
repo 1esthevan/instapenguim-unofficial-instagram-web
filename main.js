@@ -9,14 +9,12 @@ function createWindow() {
     icon: path.join(__dirname, 'icon.png'),
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
-      // Importante para carregar sites externos com segurança
       webviewTag: true, 
       nodeIntegration: false,
       contextIsolation: true
     }
   });
 
-  // Remove a barra de menu da aplicação
   mainWindow.setMenu(null);
 
   mainWindow.loadFile('app/index.html');
