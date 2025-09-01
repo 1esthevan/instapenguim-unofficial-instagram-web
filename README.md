@@ -70,35 +70,10 @@ This project is built with:
 
 ---
 
-### For Developers
-
-Want to get your hands dirty and contribute?
-
-1.  **Fork** this repository.
-2.  **Clone** your fork to your local machine:
-    \`\`\`bash
-    git clone https://github.com/sl4pdev/instapenguim-unofficial-instagram-web.git
-    cd instapenguim-unofficial-instagram-web
-    \`\`\`
-3.  **Install the dependencies:**
-    \`\`\`bash
-    npm install
-    \`\`\`
-4.  **Run in development mode:**
-    \`\`\`bash
-    npm start
-    \`\`\`
-5.  **Create a new branch** for your feature (`git checkout -b feature/my-cool-feature`).
-6.  **Commit your changes** (`git commit -m 'feat: Add my cool feature'`).
-7.  **Push to the branch** (`git push origin feature/my-cool-feature`).
-8.  Open a **Pull Request**.
-
----
-
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Crafted with ❤️ by **sl4pdev**.
+Crafted with ❤️ by **Esthevan**.
